@@ -1,0 +1,26 @@
+.cuerpo{
+    margin: 50px 50px 50px 50px;
+}
+
+h1 {
+    background-color: lightgrey;
+    text-align: center;
+}
+
+h2 {
+    background-color: lightgrey;
+    text-align: center;
+}
+
+.enblanco {
+    background-color: black;
+}
+
+.imagenbarza{
+    width: 200px;
+    height: 200px;
+}
+
+.presentacion{
+    text-align: center;
+}
